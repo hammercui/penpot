@@ -80,3 +80,5 @@ node_modules
 /playwright/.cache/
 /render-wasm/target/
 /**/.yarn/*
+yarn.lock
+package-lock.json
